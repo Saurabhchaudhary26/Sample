@@ -1,1 +1,2 @@
 Content of file1.txt
+Additional content in file1.txt
